@@ -2,7 +2,7 @@ Proyecto creado con [Create React App](https://github.com/facebook/create-react-
 
 ## Descripción
 
-Aplicación web que sirve para controlar el gasto semanal con un presupuesto inicial realizado en React.js
+Aplicación web que sirve para controlar el gasto semanal con un presupuesto inicial realizado en React.js, Hooks, libreria Skeleton css.
 
 ## Descargar y correr el proyecto
 
